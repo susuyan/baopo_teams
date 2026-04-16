@@ -1,0 +1,13 @@
+export { Navbar } from "./Navbar";
+export { ScrollReveal } from "./ScrollReveal";
+export { SectionWrapper } from "./SectionWrapper";
+export { FloatingContactButton } from "./FloatingContactButton";
+export { Services } from "./Services";
+export { StyledAvatar } from "./StyledAvatar";
+export { TeamMemberCard } from "./TeamMemberCard";
+export { Team } from "./Team";
+export { Process } from "./Process";
+export { Benefits } from "./Benefits";
+export { Cases } from "./Cases";
+export { Contact } from "./Contact";
+export { Footer } from "./Footer";
